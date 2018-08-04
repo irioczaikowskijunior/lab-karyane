@@ -1,1 +1,4 @@
-.text-plain{float: left;}
+.text-plain{float: left; width: 200px;  margin: 20px;}
+#text1{border: 2px groove #FF0DFF;}
+#text2{border: 2px groove #FF0000;}
+#text3{border-style: groove; border-color: #FFEB0D; border-width: 2px;}
